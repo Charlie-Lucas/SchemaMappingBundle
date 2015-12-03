@@ -1,0 +1,11 @@
+{
+    "name": "charlie-lucas/schema-mapping-bundle",
+    "description": "This bundle allow you to map an entity for schema.org",
+    "authors": [
+        {
+            "name": "Charlie",
+            "email": "charlielucas.cl@gmail.com"
+        }
+    ],
+    "require": {}
+}
